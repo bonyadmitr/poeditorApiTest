@@ -1,0 +1,6 @@
+
+/*On splash screen, welcome string*/
+"hello" = "Hello";
+
+/*email text enter label*/
+"email" = "Email";
